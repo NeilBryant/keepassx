@@ -1,5 +1,7 @@
 # KeePassX v2.0.2 + keepasshttp
 
+![alt text](https://travis-ci.org/keepassxreboot/keepassx.svg?branch=master "Travis-CI Badge")
+
 ## About
 
 Fork of [KeePassX](https://www.keepassx.org/) with keepasshttp support for use with [PassIFox](https://addons.mozilla.org/en-us/firefox/addon/passifox/) for Mozilla Firefox and [chromeIPass](https://chrome.google.com/webstore/detail/chromeipass/ompiailgknfdndiefoaoiligalphfdae) for Google Chrome.
